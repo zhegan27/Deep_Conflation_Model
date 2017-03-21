@@ -6,7 +6,7 @@ The Theano code for the ICASSP 2017 paper “[Character-level Deep Conflation fo
 
 This code is written in python. To use it you will need:
 
-* Python 2.7 (do you use Python 3.0)
+* Python 2.7 (do not use Python 3.0)
 * Theano 0.7 (you can also use the most recent version)
 * A recent version of NumPy and SciPy 
 * Sklearn (This is used for 10-fold cross-validation)
